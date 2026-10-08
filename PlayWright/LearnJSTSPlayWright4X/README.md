@@ -13,8 +13,9 @@ This repository contains hands-on notes and examples for learning prompt enginee
 - `00_Chapter_Prompt_Eng/` — prompt engineering notes and templates, including RICE-POT, problem statements, and hallucination prevention.
 - `00_Chapter_Prompt_Eng/Selenium Framework/` — a Maven-based Selenium and TestNG suite covering Salesforce login scenarios.
 - `01_Chapter_JS_Basics/` — introductory JavaScript examples and DOM notes.
-- `02_Chapter_JS_Keywords_Identifiers/` — examples covering JavaScript engines, keywords, comments, and identifier rules.
-- `03_Chapter_JS_Literals/` — JavaScript literals learning material.
+- `02_Chapter_JS_Keywords_Identifiers/` — JavaScript engine, keyword, comment, and identifier examples, plus [Keywords&Identifirs.md](02_Chapter_JS_Keywords_Identifiers/Keywords%26Identifirs.md) with identifier rules and naming conventions.
+
+The keywords and identifiers lessons cover reserved words, case sensitivity, valid identifier starting characters (`a-z`, `A-Z`, `_`, and `$`), and common naming styles such as camelCase and PascalCase.
 
 ## Run a JavaScript example
 
