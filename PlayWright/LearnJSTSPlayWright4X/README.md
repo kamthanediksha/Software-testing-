@@ -15,6 +15,7 @@ This repository contains hands-on notes and examples for learning prompt enginee
 - `01_Chapter_JS_Basics/` — introductory JavaScript examples and DOM notes.
 - `02_Chapter_JS_Keywords_Identifiers/` — JavaScript engine, keyword, comment, and identifier examples, plus [Keywords&Identifirs.md](02_Chapter_JS_Keywords_Identifiers/Keywords%26Identifirs.md) with identifier rules and naming conventions.
 - `03_Chapter_JS_Literals/` — examples of JavaScript string, boolean, null, undefined, and numeric literals, including number bases, exponential notation, numeric separators, BigInt, `Infinity`, and `NaN`.
+- `04_Chapter_JS_Operators/` — arithmetic, assignment, comparison, and logical operator examples, including loose-versus-strict equality and surprising type coercion.
 
 The keywords and identifiers lessons cover reserved words, case sensitivity, valid identifier starting characters (`a-z`, `A-Z`, `_`, and `$`), and common naming styles such as camelCase and PascalCase.
 
@@ -39,6 +40,14 @@ Run a literals example with:
 ```sh
 node 03_Chapter_JS_Literals/10_Literals.js
 ```
+
+Run an operators example with:
+
+```sh
+node 04_Chapter_JS_Operators/24_Confusing_Comparsion.js
+```
+
+The operators examples demonstrate arithmetic results, assignment, boolean comparisons, logical operators, and why loose equality (`==`) can produce surprising results compared with strict equality (`===`).
 
 ## Run the Selenium tests
 
